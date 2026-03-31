@@ -77,4 +77,4 @@
 
 ## 🔗 Website
 
-[المنصة الإسلامية](https://al-manasah.vercel.app/)
+[Islamic Platform](https://al-manasah.vercel.app/)
