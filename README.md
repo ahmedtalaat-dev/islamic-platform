@@ -64,7 +64,7 @@
 - **Tailwind CSS** – Utility-first CSS framework for styling  
 - **Lucide React** – Icons library for React  
 - **Responsive Design** – Works on mobile and desktop  
-- **multiple Islamic APIs** – For Quran and Prayer Timings.
+- **Integration with multiple Islamic APIs** – For Quran and Prayer Timings.
 
 ---
 
