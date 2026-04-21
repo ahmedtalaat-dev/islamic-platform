@@ -62,7 +62,7 @@
 - **Vite** – Fast development build tool  
 - **TypeScript** – Type-safe JavaScript  
 - **Tailwind CSS** – Utility-first CSS framework for styling  
-- **Lucide React** – Icon library for React  
+- **Lucide React** – Icons library for React  
 - **Responsive Design** – Works on mobile and desktop  
 - **Integration with multiple Islamic APIs** – For Quran and Prayer Timings.
 
